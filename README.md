@@ -1,5 +1,4 @@
-1. git clone https://github.com/jeprimartana/laravel-react-api.git
-   atau download file github tersebut
+1. download file github tersebut
    
    
 2. import database pada file dengan nama "employee_app.sql" dan jangan lupa hidupkan XAMPP, nyalakan Apache dan MySQL
